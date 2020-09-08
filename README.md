@@ -61,3 +61,9 @@ q
 ```
 (You have to give your own details for `name`, `client id`, `client secret` and `folder id` so that only I have used `< >`.
 For `(skip)` just press the enter key.) and copy the token.
+
+-----
+
+Credits and thanks to my friends ❤️ - [@Darksoda01](https://telegram.dog/darksoda01) and [@Decomposed](https://telegram.dog/decomposed) for helping me a lot. 
+
+-----
