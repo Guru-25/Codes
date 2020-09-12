@@ -11,6 +11,9 @@
 ```
 ● GDriveRclone
 ```
+```
+● TokenPickle
+```
 
 -----
 
@@ -72,6 +75,7 @@ For `(skip)` just press the enter key.) and copy the token.
 
 -----
 
+● **Token Pickle** : Download `credentials.json` from https://console.developers.google.com and rename as `credentials.json` and move to Download directory. Also download [generate_drive_token.py](https://github.com/magneto261290/magneto-python-aria/blob/master/generate_drive_token.py) 
 Credits and thanks to my friends ❤️ - [@Darksoda01](https://telegram.dog/darksoda01) and [@Decomposed](https://telegram.dog/decomposed) for helping me a lot. 
 
 -----
