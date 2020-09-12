@@ -75,7 +75,11 @@ For `(skip)` just press the enter key.) and copy the token.
 
 -----
 
-● **Token Pickle** : Download `credentials.json` from https://console.developers.google.com and rename as `credentials.json` and move to Download directory. Also download [generate_drive_token.py](https://github.com/magneto261290/magneto-python-aria/blob/master/generate_drive_token.py) 
-Credits and thanks to my friends ❤️ - [@Darksoda01](https://telegram.dog/darksoda01) and [@Decomposed](https://telegram.dog/decomposed) for helping me a lot. 
-
+● **Token Pickle** : Download `credentials.json` from https://console.developers.google.com and rename as `credentials.json` and move to Download directory. Also download [generate_token_pickle.py](https://raw.githubusercontent.com/Guru-25/Code/master/generate_token_pickle.py) and move to `credentials.json` directory and run the following commands 
+```
+pkg install python wget
+wget https://github.com/guru-25/codes
+pip install google-api-python-client google-auth-httplib2 google-auth-oauthlib
+python3 generate_token_pickle.py
+```
 -----
