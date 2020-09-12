@@ -79,8 +79,7 @@ For `(skip)` just press the enter key.) and copy the token.
 ```
 termux-setup-storage
 cd /storage/emulated/0/Download
-pkg install python wget
-wget https://github.com/guru-25/codes
+pkg install python
 pip install google-api-python-client google-auth-httplib2 google-auth-oauthlib
 python3 generate_token_pickle.py
 ```
