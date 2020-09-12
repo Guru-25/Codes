@@ -77,6 +77,8 @@ For `(skip)` just press the enter key.) and copy the token.
 
 ● **Token Pickle** : Download `credentials.json` from https://console.developers.google.com and rename as `credentials.json` and move to Download directory. Also download [generate_token_pickle.py](https://raw.githubusercontent.com/Guru-25/Code/master/generate_token_pickle.py) and move to `credentials.json` directory and run the following commands 
 ```
+termux-setup-storage
+cd /storage/emulated/0/Download
 pkg install python wget
 wget https://github.com/guru-25/codes
 pip install google-api-python-client google-auth-httplib2 google-auth-oauthlib
