@@ -46,7 +46,7 @@ wget https://raw.githubusercontent.com/guru-25/codes/master/generate_drive_token
 pip install oauth2client
 python3 generate_drive_token.py
 ```
-(Use `python` if `python3` doesn't work) and enter your client id, client secret, refresh token and copy the generated token.
+(Use `python` if `python3` doesn't work) and enter your client id, client secret, open the generated link, give authorize and paste the refresh token. Finally copy the generated token.
 
 -----
 
@@ -83,4 +83,5 @@ pkg install python
 pip install google-api-python-client google-auth-httplib2 google-auth-oauthlib
 python3 generate_token_pickle.py
 ```
+(Use `python` if `python3` doesn't work) Vist the url and give authorization and enter the authorization code. After that check your Download location, `token.pickle` will be created.
 -----
