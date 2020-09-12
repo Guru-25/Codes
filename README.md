@@ -75,7 +75,7 @@ For `(skip)` just press the enter key.) and copy the token.
 
 -----
 
-# **Token Pickle** : Download `credentials.json` from https://console.developers.google.com and rename as `credentials.json` and move to Download directory. Also download [generate_token_pickle.py](https://raw.githubusercontent.com/Guru-25/Codes/master/generate_token_pickle.py) and move to `credentials.json` directory and run the following commands 
+#1 **Token Pickle** : Download `credentials.json` from https://console.developers.google.com and rename as `credentials.json` and move to Download directory. Also download [generate_token_pickle.py](https://raw.githubusercontent.com/Guru-25/Codes/master/generate_token_pickle.py) and move to `credentials.json` directory and run the following commands 
 ```
 termux-setup-storage
 cd /storage/emulated/0/Download
