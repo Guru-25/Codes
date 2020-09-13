@@ -66,7 +66,7 @@ n
 n
 y
 <token>
-y
+y/n (y=TeamDrive, n=Drive)
 27
 y
 q
