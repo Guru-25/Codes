@@ -85,6 +85,6 @@ pkg install python
 pip install google-api-python-client google-auth-httplib2 google-auth-oauthlib
 python3 generate_token_pickle.py
 ```
-(Use `python` if `python3` doesn't work) Vist the url and give authorization and enter the authorization code. After that check your Download location, `token.pickle` will be created.
+(Use `python` if `python3` doesn't work) Visit the url and give authorization and enter the authorization code. After that check your Download location, `token.pickle` will be created.
 
 -----
