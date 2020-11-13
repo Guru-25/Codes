@@ -67,7 +67,7 @@ n
 y
 <token>
 y/n (y=TeamDrive, n=Drive)
-27
+<TeamDrive/Drive name/number>
 y
 q
 ```
