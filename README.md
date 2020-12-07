@@ -2,7 +2,7 @@
 ![Codes](https://i.imgur.com/LEe0slG.jpg)
 This codes help to generate 👇
 
-● [Pyrogram-String-Session](https://github.com/Guru-25/Codes#string-session)
+● [Pyrogram-String-Session](https://github.com/Guru-25/Codes#pyrogram-string-session)
 
 ● [Pyrogram-And-Telethon-String-Session](https://github.com/Guru-25/Codes#pyrogram-and-telethon-stringsession-user-only) (only user session)
 
