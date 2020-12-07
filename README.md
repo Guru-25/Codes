@@ -4,7 +4,7 @@ This codes help to generate 👇
 
 ● [Pyrogram-String-Session](https://github.com/Guru-25/Codes#string-session)
 
-● [Pyrogram-And-Telethon-String-Session](https://github.com/Guru-25/Codes#Pyrogram-And-Telethon-StringSession-(user-only)) (only user session)
+● [Pyrogram-And-Telethon-String-Session](https://github.com/Guru-25/Codes#pyrogram-and-telethon-stringsession-user-only) (only user session)
 
 ● [Telegraph-Token](https://github.com/Guru-25/Codes#telegraph-token)
 
