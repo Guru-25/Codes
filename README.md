@@ -6,7 +6,7 @@ This codes help to generate 👇
 
 - [Pyrogram](https://github.com/Guru-25/Codes#pyrogram)
 
-- [Telethon](https://github.com/Guru-25/Codes#telethon) (only user session)
+- [Telethon](https://github.com/Guru-25/Codes#telethon-user-only) (only user session)
 
 - [Pyrogram-And-Telethon](https://github.com/Guru-25/Codes#pyrogram-and-telethon-user-only) (only user session)
 
@@ -16,7 +16,7 @@ This codes help to generate 👇
 
 - [Specific-Folder](https://github.com/Guru-25/Codes#specific-folder)
 
-- [Token-Pickle](https://github.com/Guru-25/Codes#google-drive-token-pickle)
+- [Token-Pickle](https://github.com/Guru-25/Codes#token-pickle)
 
 #### Telegra.ph
 
