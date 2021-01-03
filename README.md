@@ -2,7 +2,7 @@
 ![Codes](https://i.imgur.com/LEe0slG.jpg)
 This codes help to generate 👇
 
-__String Session__:
+#### String Session:
 
 - [Pyrogram](https://github.com/Guru-25/Codes#pyrogram)
 
