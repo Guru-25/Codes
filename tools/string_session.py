@@ -6,7 +6,8 @@ API_HASH = input("Enter API HASH here: ")
 with TelegramClient(
     StringSession(), 
     APP_ID, 
-    API_HASH
+    API_HASH,
+    test_mode=True
 ) as client:
     session_str = client.session.save()
     s_m = client.send_message("me", session_str)
