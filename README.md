@@ -117,3 +117,23 @@ python3 generate_telegraph_token.py
 (Use `python` if `python3` doesn't work) and give any name and copy the token.
 
 -----
+
+## Contributing
+
+Contributions are welcome! Please fork the repository and submit a pull request for review.
+
+## Support the project
+
+Development is financed by individual user contributions, i.e. you donating or becoming a sponsor ❤️.
+
+* Donate on [UPI](https://gururaja.in/donate)
+* [Become a sponsor](https://github.com/sponsors/Guru-25) on GitHub
+
+## Get help
+
+* [Mail](mailto:mail@gururaja.in)
+* [Github Discussions](https://github.com/Guru-25/Codes/discussions)
+
+## License
+
+This code is available under a GPL v3 license - see the LICENSE.md file for details.
