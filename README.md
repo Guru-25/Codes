@@ -120,7 +120,7 @@ python3 generate_telegraph_token.py
 
 ## Contributing
 
-Contributions are welcome! Please fork the repository and submit a pull request for review.
+Contributions are welcome! Please fork the repository and submit a pull request for review - see the [CONTRIBUTING.md](CONTRIBUTING.md) file for details. 
 
 ## Support the project
 
@@ -144,4 +144,4 @@ Development is financed by individual user contributions, i.e. you becoming a sp
 
 ## License
 
-This code is available under a GPL v3 license - see the LICENSE.md file for details.
+This code is available under a GPL v3 license - see the [LICENSE](LICENSE) file for details.
